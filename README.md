@@ -470,11 +470,7 @@ pip install -r requirements-dev.txt
 -  Production-ready code structure
 -  Professional documentation
 
-### v2.0.0
-- Enhanced feature importance analysis
-- Improved visualization capabilities
-- Optimized training performance
-- Expanded model portfolio
+
 
 ---
 
