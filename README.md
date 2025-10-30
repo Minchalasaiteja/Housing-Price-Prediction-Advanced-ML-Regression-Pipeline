@@ -41,7 +41,7 @@ Enterprise-grade end-to-end ML system to predict real-estate prices using modern
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Minchalasaiteja/Housing-Price-Prediction-Advanced-ML-Regression-Pipeline/main/Housing-Price-Prediction.ipynb)
 
-**Get results in 3-5 minutes:**
+
 1. Click the "Open in Colab" button above
 2. Run all cells sequentially
 3. Receive complete analysis with 82.9% accuracy
