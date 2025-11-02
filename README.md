@@ -1,6 +1,6 @@
 # Housing-Price-Prediction-Advanced-ML-Regression-Pipeline
 Enterprise-grade end-to-end ML system to predict real-estate prices using modern Data Science engineering practices.
-# 🏠 California Housing Price Prediction
+#  California Housing Price Prediction
 
 <div align="center">
 
@@ -21,7 +21,7 @@ Enterprise-grade end-to-end ML system to predict real-estate prices using modern
 
 </div>
 
-## 📖 Table of Contents
+##  Table of Contents
 
 - [Quick Start](#-quick-start)
 - [Project Highlights](#-project-highlights)
@@ -35,7 +35,7 @@ Enterprise-grade end-to-end ML system to predict real-estate prices using modern
 - [Contributing](#-contributing)
 - [License](#-license)
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Run in Google Colab (Recommended)
 
@@ -73,15 +73,15 @@ prediction = project.predict(sample_property)
 print(f"Predicted price: ${prediction:,.2f}")
 ```
 
-## 🏆 Project Highlights
+##  Project Highlights
 
-### 🎯 Key Achievements
+###  Key Achievements
 - **82.9% Accuracy** with Gradient Boosting algorithm
 - **$47,301 Average Error** - practical for real estate decisions
 - **7 Algorithms Benchmarked** with comprehensive evaluation
 - **Production-Ready Code** with professional documentation
 
-### 📊 Performance Metrics
+###  Performance Metrics
 | Metric | Value | Industry Standard |
 |--------|-------|-------------------|
 | **R² Score** | 0.8293 |  Exceeds 0.80 target |
@@ -89,16 +89,16 @@ print(f"Predicted price: ${prediction:,.2f}")
 | **MAE** | $31,402 | Excellent for housing market |
 | **Training Time** | 2-3 minutes |  Fast execution |
 
-### 🏅 Model Ranking
-1. **🥇 Gradient Boosting** - 82.9% accuracy
-2. **🥈 Random Forest** - 80.6% accuracy  
-3. **🥉 Elastic Net** - 57.8% accuracy
+###  Model Ranking
+1. ** Gradient Boosting** - 82.9% accuracy
+2. ** Random Forest** - 80.6% accuracy  
+3. ** Elastic Net** - 57.8% accuracy
 4. Lasso Regression - 57.6% accuracy
 5. Ridge Regression - 57.6% accuracy
 6. Linear Regression - 57.6% accuracy
 7. SVR - 42.6% accuracy
 
-## 📈 Results Summary
+##  Results Summary
 
 ### Model Performance Comparison
 
@@ -122,7 +122,7 @@ Top Predictors of Housing Prices:
 5. Average Rooms (0.9%) - Property characteristics
 ```
 
-## 🔧 Installation
+##  Installation
 
 ### Requirements
 - **Python 3.8+**
@@ -148,7 +148,7 @@ cd Housing-Price-Prediction-Advanced-ML-Regression-Pipeline
 python main.py
 ```
 
-## 💻 Usage
+##  Usage
 
 ### Complete Analysis Pipeline
 ```python
@@ -200,9 +200,9 @@ sample_results = [
 
 | Algorithm | Best For | Accuracy | Speed | Business Use |
 |-----------|----------|----------|-------|--------------|
-| **Gradient Boosting** | **Maximum Accuracy** | 🥇 82.9% | ⚡⚡⚡ | Primary Model |
-| **Random Forest** | **Robustness** | 🥈 80.6% | ⚡⚡⚡ | Fallback Model |
-| **Linear Models** | **Interpretability** | 🥉 57.8% | ⚡⚡⚡⚡⚡ | Stakeholder Explanations |
+| **Gradient Boosting** | **Maximum Accuracy** |  82.9% | ⚡⚡⚡ | Primary Model |
+| **Random Forest** | **Robustness** |  80.6% | ⚡⚡⚡ | Fallback Model |
+| **Linear Models** | **Interpretability** |  57.8% | ⚡⚡⚡⚡⚡ | Stakeholder Explanations |
 | **SVR** | Complex Patterns | 42.6% | ⚡ | Special Cases |
 
 </div>
@@ -221,7 +221,7 @@ Cross-Validation Scores (RMSE):
 ![Model Comparison](https://via.placeholder.com/600x400/FFFFFF/000000?text=Model+Performance+Comparison)
 ![Residual Analysis](https://via.placeholder.com/600x400/FFFFFF/000000?text=Residual+Analysis+Plots)
 
-## 💡 Key Insights
+##  Key Insights
 
 ### Business Implications
 1. **Location is King**: Geographic coordinates explain 64.8% of price variation
@@ -245,7 +245,7 @@ recommendation = {
 }
 ```
 
-## 🔬 Advanced Features
+##  Advanced Features
 
 ### Polynomial Regression
 ```python
@@ -278,7 +278,7 @@ importance = interpreter.plot_feature_importance(X_test, y_test)
 explanations = interpreter.explain_prediction(sample_property)
 ```
 
-## 🔌 API Reference
+##  API Reference
 
 ### Core Classes
 
@@ -362,7 +362,7 @@ performance = trainer.evaluate_models(X_test, y_test)
 best_model = trainer.get_best_model()
 ```
 
-## 🛠️ Technical Architecture
+##  Technical Architecture
 
 ### System Design
 ```
@@ -384,7 +384,7 @@ Components:
 | **Visualization** | Matplotlib, Seaborn | Professional result presentation |
 | **Validation** | 5-Fold CV | Robust performance assurance |
 
-## 🚀 Deployment Options
+##  Deployment Options
 
 ### Cloud Platforms
 | Platform | Setup Time | Cost | Best For |
@@ -419,12 +419,12 @@ pip install -r requirements-dev.txt
 ```
 
 ### Areas for Contribution
-- 🐛 **Bug Fixes**: Improve code reliability
-- 📊 **New Visualizations**: Enhanced result presentation
-- 🤖 **Additional Algorithms**: Expand model portfolio
-- 🚀 **Performance Optimization**: Faster training & prediction
-- 📚 **Documentation**: Improved guides and examples
-- 🔧 **API Development**: RESTful endpoints for predictions
+-  **Bug Fixes**: Improve code reliability
+-  **New Visualizations**: Enhanced result presentation
+-  **Additional Algorithms**: Expand model portfolio
+-  **Performance Optimization**: Faster training & prediction
+-  **Documentation**: Improved guides and examples
+-  **API Development**: RESTful endpoints for predictions
 
 ### Code Standards
 - Follow PEP 8 style guide
@@ -476,7 +476,7 @@ pip install -r requirements-dev.txt
 
 <div align="center">
 
-**📊 Accuracy: 82.9% | 🚀 Ready for Production | 💼 Business Value Proven**
+**📊 Accuracy: 82.9% | 💼 Business Value Proven**
 
 
 
